@@ -84,8 +84,8 @@ java -cp src Main
 
 ## License
 
-This project is open source and available for educational purposes.
+This project is open source and available for educational purposes MADE FOR PRACTICE.
 
 ## Author
 
-krisjscott
+Krish Kumar
